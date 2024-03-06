@@ -1,4 +1,4 @@
-![logo](https://github.com/SAMEER563/SAMEEER563/blob/main/Banner.gif) 
+![logo](https://github.com/SAMEER563/SAMEER563/blob/main/Banner.gif)) 
 <h1 align="center">Hi 👋, I'm Sameer Kumar Maurya</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
