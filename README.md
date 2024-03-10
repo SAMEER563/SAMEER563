@@ -18,7 +18,7 @@
 # 📊 GitHub Stats:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=SAMEER563&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt=""/></p>
-<p>&nbsp;<img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SAMEER563&theme=radical&hide_border=false" alt="" /></p>
+<p><img  align="center" style="padding:5px;" src="https://github-readme-streak-stats.herokuapp.com/?user=SAMEER563&theme=radical&hide_border=false" alt="" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMEER563&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="" /></p>
 </div>
 
