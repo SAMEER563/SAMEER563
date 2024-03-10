@@ -10,7 +10,7 @@
 🌱 I’m currently learning MERN STACK<br>
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=black)](https://discord.gg/users/1079358050256826438) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%4169E1.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sameer-kumar-maurya-5a6990228) [![Medium](https://img.shields.io/badge/Medium-8A2BE2?logo=medium&logoColor=white)](https://medium.com/@@shakyasam563) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=black)]("http://discordapp.com/users/1079358050256826438") [![LinkedIn](https://img.shields.io/badge/LinkedIn-%4169E1.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sameer-kumar-maurya-5a6990228) [![Medium](https://img.shields.io/badge/Medium-8A2BE2?logo=medium&logoColor=white)](https://medium.com/@@shakyasam563) 
  [![Email](https://img.shields.io/badge/Email-C0C0C0?logo=gmail&logoColor=red)](mailto:sameermaurya482@gmail.com) 
 
 # 💻 Tech Stack:
