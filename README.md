@@ -26,4 +26,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameer563&" alt="sameer563" /></p>
 
-![snake gif](https://github.com/SAMEER563/SAMEER563/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/SAMEER563/SAMEER563/blob/output/github-contribution-grid-snake.svg)
