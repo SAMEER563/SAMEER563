@@ -1,5 +1,5 @@
 ![logo](https://github.com/SAMEER563/SAMEER563/blob/main/Banner%20.gif)
-<h1 align="center">Hi 👋, I'm Sameer Kumar Maurya</h1>
+<h1 align="center">Hi 👋, I'm Sameer Kumar Maurya </h1>
 <h3 align="center">A passionate web developer from Uttar Pradesh</h3>
 
 <img width="400" align="right" alt="coding" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -7,7 +7,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=SAMEER563&icon=1&color=6)](https://visitcount.itsvg.in)
 
-🌱 I’m currently learning MERN STACK<br>
+🌱 I’m currently learning MERN STACK <br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=black)](http://discordapp.com/users/1079358050256826438) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%4169E1.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sameer-kumar-maurya-5a6990228) [![Medium](https://img.shields.io/badge/Medium-8A2BE2?logo=medium&logoColor=white)](https://medium.com/@@shakyasam563) 
