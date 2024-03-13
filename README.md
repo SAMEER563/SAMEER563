@@ -1,6 +1,6 @@
 ![logo](https://github.com/SAMEER563/SAMEER563/blob/main/Banner%20.gif)
 <h1 align="center">Hi 👋, I'm Sameer Kumar Maurya</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate web developer from Uttar Pradesh</h3>
 
 <img width="400" align="right" alt="coding" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
