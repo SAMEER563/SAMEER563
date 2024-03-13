@@ -30,19 +30,9 @@
  
  ### ✍️ Random Dev Quote
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="height: 180px; width:80%;" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="height: 150px; width:80%;" />
 
 </div>
-
-
-<div align="center">
-
-### 😂 Random Dev Meme
-
-<img src='https://randommeme-five.vercel.app/' style="height: 300px; width:500px;"/>
-
-</div>
-
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
