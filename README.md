@@ -28,7 +28,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SAMEER563&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-
 <div align=center>
  
  ### ✍️ Random Dev Quote
