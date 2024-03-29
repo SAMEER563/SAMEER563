@@ -35,7 +35,6 @@
 
 </div>
 
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <img src="https://github.com/SAMEER563/SAMEER563/blob/output/snake.svg" alt="Snake Animation" />
 
