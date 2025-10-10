@@ -1,4 +1,4 @@
-![logo](https://github.com/SAMEER563/SAMEER563/blob/main/Banner%20.png)
+![logo](Banner.png)
 
 [![Typing SVG ](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;I'm+a+React+Developer...)](https://git.io/typing-svg)
 
