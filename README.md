@@ -1,6 +1,6 @@
 ![logo](Banner.png)
 
-[![Typing SVG ](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;I'm+a+React+Developer...)](https://git.io/typing-svg)
+[![Typing SVG ](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full+Stack+Developer...)](https://git.io/typing-svg)
 
 <img width="350" height="200"  align="right" alt="coding" src="https://media1.tenor.com/m/epFxZ9nyQLIAAAAC/work-post.gif">
 
