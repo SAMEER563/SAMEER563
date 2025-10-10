@@ -7,7 +7,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=SAMEER563&icon=1&color=6)](https://visitcount.itsvg.in)
 
-🌱 I’m currently learning MERN STACK <br>
+🌱 I’m currently working as Full Stack Developer <br>
 
 
 ## 🌐 Socials:
