@@ -76,7 +76,7 @@
 
 <!-- Streak Stats -->
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameer563&theme=radical" alt="GitHub Streak" />
+ <img align="center" src="https://streak-stats.demolab.com?user=sameer563&theme=radical&border_radius=5" alt="GitHub Streak" />
 </p>
 
 ---
