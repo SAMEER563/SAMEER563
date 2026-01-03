@@ -64,26 +64,34 @@
 
 ### 📊 GitHub Stats (Auto Theme)
 
-<p align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=sameer563&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=sameer563&show_icons=true&theme=default"
-    />
-  </picture>
+### 📊 GitHub Stats
 
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=sameer563&layout=compact&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=sameer563&layout=compact&theme=default"
-    />
-  </picture>
+<p align="center">
+  <!-- Dark mode -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=sameer563&show_icons=true&theme=radical#gh-dark-mode-only"
+    width="45%"
+  />
+  
+  <!-- Light mode -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=sameer563&show_icons=true&theme=default#gh-light-mode-only"
+    width="45%"
+  />
+</p>
+
+<p align="center">
+  <!-- Dark mode -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=sameer563&layout=compact&theme=radical#gh-dark-mode-only"
+    width="45%"
+  />
+  
+  <!-- Light mode -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=sameer563&layout=compact&theme=default#gh-light-mode-only"
+    width="45%"
+  />
 </p>
 
 
