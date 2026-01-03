@@ -62,24 +62,20 @@
 
 ---
 
-### 📊 GitHub Stats (Auto Theme)
-
 ### 📊 GitHub Stats
 
-<p align="center"> 
-  <!-- Light mode -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=sameer563&show_icons=true&theme=default#gh-light-mode-only"
-    width="45%"
-  />
+<p>
+  <img align="left"
+       src="https://github-readme-stats.vercel.app/api?username=sameer563&show_icons=true&theme=default#gh-light-mode-only"
+       width="45%" />
+
+  <img align="right"
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=sameer563&layout=compact&theme=default#gh-light-mode-only"
+       width="45%" />
 </p>
 
-  <!-- Light mode -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=sameer563&layout=compact&theme=default#gh-light-mode-only"
-    width="45%"
-  />
-</p>
+<br clear="both"/>
+
 
 
 <!-- Streak Stats -->
