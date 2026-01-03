@@ -62,22 +62,44 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats (Auto Theme)
 
-<!-- Most Used Languages -->
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameer563&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=sameer563&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=sameer563&show_icons=true&theme=default"
+    />
+  </picture>
+
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=sameer563&layout=compact&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=sameer563&layout=compact&theme=default"
+    />
+  </picture>
 </p>
 
-<!-- Stats Card -->
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sameer563&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
 
 <!-- Streak Stats -->
-<p>
- <img align="center" src="https://streak-stats.demolab.com?user=sameer563&theme=radical&border_radius=5" alt="GitHub Streak" />
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://streak-stats.demolab.com?user=sameer563&theme=dark&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img 
+      src="https://streak-stats.demolab.com?user=sameer563&theme=default&hide_border=true"
+    />
+  </picture>
 </p>
+
 
 ---
 
