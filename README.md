@@ -63,10 +63,9 @@
 ---
 
 ### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameer563&show_icons=true)
 
-| GitHub Stats | Top Languages |
-|-------------|---------------|
-| ![](https://github-readme-stats.vercel.app/api?username=sameer563&show_icons=true&theme=default&cache_seconds=86400) | ![](https://github-readme-stats.vercel.app/api/top-langs?username=sameer563&layout=compact&theme=default&cache_seconds=86400) |
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sameer563&layout=compact)
 
 
 
