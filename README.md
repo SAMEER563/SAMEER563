@@ -64,17 +64,10 @@
 
 ### 📊 GitHub Stats
 
-<p>
-  <img align="left"
-       src="https://github-readme-stats.vercel.app/api?username=sameer563&show_icons=true&theme=default#gh-light-mode-only"
-       width="45%" />
+| GitHub Stats | Top Languages |
+|-------------|---------------|
+| ![](https://github-readme-stats.vercel.app/api?username=sameer563&show_icons=true&theme=default&cache_seconds=86400) | ![](https://github-readme-stats.vercel.app/api/top-langs?username=sameer563&layout=compact&theme=default&cache_seconds=86400) |
 
-  <img align="right"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=sameer563&layout=compact&theme=default#gh-light-mode-only"
-       width="45%" />
-</p>
-
-<br clear="both"/>
 
 
 
