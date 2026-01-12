@@ -81,15 +81,16 @@
 <!-- Streak Stats -->
 <p align="center">
   <picture>
-    <source 
-      srcset="https://streak-stats.demolab.com?user=sameer563&theme=dark&hide_border=true"
+    <source
+      srcset="https://streak-stats.vercel.app?user=sameer563&theme=dark&hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
-    <img 
-      src="https://streak-stats.demolab.com?user=sameer563&theme=default&hide_border=true"
+    <img
+      src="https://streak-stats.vercel.app?user=sameer563&theme=default&hide_border=true"
     />
   </picture>
 </p>
+
 
 
 ---
