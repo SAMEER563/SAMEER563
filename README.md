@@ -71,30 +71,17 @@
 
 
 <!-- Streak Stats -->
-<p align="center">
-  <div
-    style="
-      display: inline-block;
-      padding: 12px;
-      background-color: #0d1117; /* dark bg */
-      border: 2px solid #58a6ff; /* border color */
-      border-radius: 10px;
-    "
-  >
-    <picture>
-      <source
-        srcset="https://streak-stats.vercel.app?user=sameer563&theme=dark&hide_border=true"
-        media="(prefers-color-scheme: dark)"
-      />
-      <img
-        src="https://streak-stats.vercel.app?user=sameer563&theme=default&hide_border=true"
-        alt="GitHub Streak Stats"
-      />
-    </picture>
-  </div>
+ <p align="center">
+  <picture>
+    <source
+      srcset="https://streak-stats.vercel.app?user=sameer563&theme=dark&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      src="https://streak-stats.vercel.app?user=sameer563&theme=default&hide_border=true"
+    />
+  </picture>
 </p>
-
-
 
 ---
 
