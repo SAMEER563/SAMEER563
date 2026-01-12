@@ -10,7 +10,7 @@
 ---
 
 <!-- Visitor Count -->
-[![](https://visitcount.itsvg.in/api?id=SAMEER563&icon=1&color=6)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=sameer563&color=blue)
 
 ### 👋 About Me
 
