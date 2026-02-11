@@ -20,7 +20,6 @@
 🚀 Open to collaborating on exciting projects  
 
 ---
-
 ### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sameer-kumar-maurya-5a6990228)
