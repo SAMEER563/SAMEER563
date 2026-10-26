@@ -18,24 +18,18 @@
 <!-- ===================== ABOUT ===================== -->
 ### 🧑‍💻 About Me
 
-<img align="right" src="https://media1.tenor.com/m/epFxZ9nyQLIAAAAC/work-post.gif" alt="coding" width="260" />
-
-```js
-const sameer = {
-  role:       "Oracle APEX Developer",
-  enterprise: ["APEX", "PL/SQL", "Fusion AI"],
-  fullStack:  ["React", "Next.js", "Node.js", "MongoDB"],
-  languages:  ["JavaScript", "TypeScript", "Python"],
-  focus:      "Enterprise apps & AI workflows",
-};
-```
-
-<br clear="right" />
+<img align="right" src="https://media1.tenor.com/m/epFxZ9nyQLIAAAAC/work-post.gif" alt="coding" width="300" />
 
 - 💼 Currently working as an **Oracle APEX Developer**
 - 🏢 Building enterprise apps with **APEX, PL/SQL & Oracle Fusion AI**
-- ⚡ Comfortable from **UI to database** — React on the front, PL/SQL at the core
+- 🤖 Working on **AI-driven workflows** and enterprise integrations
+- 🌐 Background in **Full Stack** — React, Next.js, Node.js, MongoDB
+- ⚡ Comfortable from **UI to database** — clean front ends, solid PL/SQL at the core
+- 📚 Always learning something new
 - 🤝 **Open to collaborating** on exciting projects
+- 📫 Reach me at **sameermaurya482@gmail.com**
+
+<br clear="right" />
 
 ---
 
