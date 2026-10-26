@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%2C%20I'm%20Sameer%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Oracle%20APEX%20Developer%20%7C%20PL%2FSQL%20%E2%80%A2%20Fusion%20AI%20%E2%80%A2%20Full%20Stack&descAlignY=58&descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sameer%20Kumar%20Maurya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Oracle%20APEX%20Developer%20%7C%20PL%2FSQL%20%E2%80%A2%20Fusion%20AI%20%E2%80%A2%20Full%20Stack&descAlignY=58&descSize=18" alt="header" /> 
 </p>
 
 <p align="center">
