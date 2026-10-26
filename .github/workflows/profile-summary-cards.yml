@@ -1,8 +1,10 @@
 name: GitHub Profile Summary Cards
 
 on:
+  push:
+    branches: [main]      # runs right away whenever you commit to main
   schedule:
-    - cron: "0 0 * * *"   # runs daily at 00:00 UTC
+    - cron: "0 0 * * *"   # also refreshes daily at 00:00 UTC
   workflow_dispatch:      # lets you run it manually from the Actions tab
 
 jobs:
